@@ -1,0 +1,9 @@
+﻿## Interface: 16001
+## Title: XanaSteps
+## Notes: Shows the current and next RestedXP guide steps as numbered pins on the world map and minimap.
+## Author: Srdan Nikolic
+## Version: 0.2.1
+## Dependencies: RXPGuides
+## Category: Xana
+
+XanaSteps.lua
