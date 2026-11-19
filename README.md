@@ -4,8 +4,7 @@ Shows the steps of your current RestedXP guide as numbered pins on the world
 map and the minimap in World of Warcraft: Forever. That's all it does: no arrow, no routes,
 no extra windows.
 
-Version 0.2.1, written for the WoW Forever beta (interface 16001).
-Not yet tested in game.
+Version 0.2.1, for WoW Forever (interface 16001). Tested in game.
 
 ## Requirements
 
